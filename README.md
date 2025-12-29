@@ -3,6 +3,8 @@
 </div>
 
 <br />
+<hr />
+<br />
 
 <p align="center">
   <a href="https://www.linkedin.com/in/anubhav-raj-singh-88a03b2b5/" target="_blank">
@@ -17,9 +19,10 @@
 </p>
 
 <h1 align="center">Hi there 👋, &lt; devs /&gt;</h1>
+<hr />
 
 <p align="center">
-  My name is <b>Anubhav Raj Singh</b>. A passionate Full Stack Web Developer from India. My main areas of interest are <b>MERN Stack</b> and <b>Next.js</b> development. Right now, I'm learning <b>Typescript</b> and <b>Advanced 3D Web Development</b>. Aside from this, I enjoy solving real-world problems using clean code. In my spare time, I love turning ideas into code.
+  My name is <b>Anubhav Raj Singh</b>. A passionate Full Stack Web Developer from India. My main areas of interest are <b>MERN Stack</b> and <b>Next.js</b> development. Right now, I'm learning <b>Typescript</b>. Aside from this, I enjoy solving real-world problems using clean code. In my spare time, I love turning ideas into code.
 </p>
 
 <h3 align="left">Connect with me:</h3>
