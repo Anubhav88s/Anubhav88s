@@ -63,3 +63,12 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anubhav88s&theme=default&hide_border=true" alt="Anubhav88s" />
 </p>
+
+<h2 align="center">Snake Game</h2>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Anubhav88s/Anubhav88s/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Anubhav88s/Anubhav88s/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Anubhav88s/Anubhav88s/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
