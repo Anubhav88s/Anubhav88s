@@ -6,54 +6,47 @@
   <b>Independent & Self-Motivated Developer | Passionate about Modern Web Tech 🚀</b>
 </p>
 
-<p align="center">
+<div align="center">
   <a href="https://github.com/Anubhav88s">
     <img src="https://img.shields.io/github/followers/Anubhav88s?style=social" alt="GitHub Followers" />
   </a>
   <a href="https://twitter.com/">
     <img src="https://img.shields.io/twitter/follow/twitter?style=social&label=Follow" alt="Twitter Follow" />
   </a>
-</p>
+</div>
 
----
+<br />
 
-<table align="center">
-  <tr>
-    <td align="left" width="50%">
-      <h3>🧐 About Me</h3>
-      <p>I'm <b>Anubhav Raj Singh</b>, a passionate Full Stack Developer from India.</p>
-      <ul>
-        <li>🔭 I’m currently working on <b>MERN Stack & Next.js</b> projects.</li>
-        <li>🌱 I’m currently learning <b>Advanced 3D Web Development</b>.</li>
-        <li>👯 I’m looking to collaborate on <b>Open Source Projects</b>.</li>
-        <li>💬 Ask me about <b>React, Next.js, and Backend Design</b>.</li>
-        <li>📫 How to reach me: <a href="mailto:anubhavrajsinghu@gmail.com"><b>anubhavrajsinghu@gmail.com</b></a></li>
-        <li>⚡ Fun fact: I love turning ideas into code!</li>
-      </ul>
-      <br />
-      <h3>� Connect with Me</h3>
-      <div align="left">
-        <a href="https://anubhav-eight.vercel.app/" target="_blank">
-          <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
-        </a>
-        <a href="https://www.linkedin.com/in/anubhav-raj-singh-88a03b2b5/" target="_blank">
-          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-        </a>
-        <a href="mailto:anubhavrajsinghu@gmail.com">
-          <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
-        </a>
-      </div>
-    </td>
-    <td align="center" width="50%">
-      <h3>📊 GitHub Stats</h3>
-      <img src="https://github-readme-stats.vercel.app/api?username=Anubhav88s&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" height="160" alt="stats graph" />
-      <br />
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anubhav88s&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" height="160" alt="languages graph" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <h3>🧐 About Me</h3>
+  <p>I'm <b>Anubhav Raj Singh</b>, a passionate Full Stack Developer from India.</p>
+  <p>
+    🔭 I’m currently working on <b>MERN Stack & Next.js</b> projects.<br />
+    🌱 I’m currently learning <b>Advanced 3D Web Development</b>.<br />
+    👯 I’m looking to collaborate on <b>Open Source Projects</b>.<br />
+    💬 Ask me about <b>React, Next.js, and Backend Design</b>.<br />
+    ⚡ Fun fact: I love turning ideas into code!
+  </p>
+</div>
 
-<h3 align="center">🛠️ languages and tools</h3>
+<br />
+
+<div align="center">
+  <h3>📫 Connect with Me</h3>
+  <a href="https://anubhav-eight.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://www.linkedin.com/in/anubhav-raj-singh-88a03b2b5/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="mailto:anubhavrajsinghu@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
+  </a>
+</div>
+
+<br />
+
+<h3 align="center">🛠️ Languages and Tools</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -74,6 +67,14 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+</div>
+
+<br />
+
+<h3 align="center">📊 GitHub Stats</h3>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Anubhav88s&show_icons=true&theme=radical" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anubhav88s&layout=compact&theme=radical" height="150" alt="languages graph" />
 </div>
 
 <br />
