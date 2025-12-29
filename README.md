@@ -28,7 +28,7 @@
 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=bootstrap,css,docker,express,figma,firebase,git,html,java,js,mongodb,mysql,nextjs,nodejs,ps,postgres,postman,react,redux,sass,tailwind,ts" />
+  <img src="https://skillicons.dev/icons?i=bootstrap,css,docker,express,figma,firebase,git,html,java,js,mongodb,mysql,nextjs,nodejs,ps,postgres,postman,react,redux,sass,tailwind,ts,socketio" />
 </p>
 
 <h2 align="center">Statistics</h2>
