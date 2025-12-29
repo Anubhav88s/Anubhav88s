@@ -16,7 +16,7 @@
   </a>
 </p>
 
-<h1 align="center">Hi 👋, I'm Anubhav Raj Singh</h1>
+<h1 align="center">Hi there 👋, &lt; devs /&gt;</h1>
 <h3 align="center">Full Stack Developer</h3>
 
 - 🌱 I’m currently learning **Typescript**
