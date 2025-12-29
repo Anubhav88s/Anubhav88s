@@ -3,7 +3,6 @@
 </div>
 
 <br />
-<hr />
 <br />
 
 <p align="center">
@@ -19,7 +18,6 @@
 </p>
 
 <h1 align="center">Hi there 👋, &lt; devs /&gt;</h1>
-<hr />
 
 <p align="center">
   My name is <b>Anubhav Raj Singh</b>. A passionate Full Stack Web Developer from India. My main areas of interest are <b>MERN Stack</b> and <b>Next.js</b> development. Right now, I'm learning <b>Typescript</b>. Aside from this, I enjoy solving real-world problems using clean code. In my spare time, I love turning ideas into code.
