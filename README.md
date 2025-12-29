@@ -57,11 +57,11 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Anubhav88s&show_icons=true&locale=en&layout=compact" alt="Anubhav88s" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Anubhav88s&show_icons=true&locale=en" alt="Anubhav88s" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anubhav88s&show_icons=true&locale=en&layout=compact" alt="Anubhav88s" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anubhav88s&show_icons=true&locale=en" alt="Anubhav88s" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anubhav88s&theme=default&hide_border=true" alt="Anubhav88s" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anubhav88s&theme=default&hide_border=true" alt="Anubhav88s" />
 </p>
 
 <h2 align="center">Pacman Game</h2>
