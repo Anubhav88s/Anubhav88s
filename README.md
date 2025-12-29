@@ -22,7 +22,7 @@
 <p align="center">
   My name is <b>Anubhav Raj Singh</b>. A passionate Full Stack Web Developer from India. My main areas of interest are <b>MERN Stack</b> and <b>Next.js</b> development. Right now, I'm learning <b>Typescript</b>. Aside from this, I enjoy solving real-world problems using clean code. In my spare time, I love turning ideas into code.
 </p>
-
+ 
 
 
 <h2 align="center">Tech Stack</h2>
@@ -64,11 +64,11 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anubhav88s&theme=default&hide_border=true" alt="Anubhav88s" />
 </p>
 
-<h2 align="center">Snake Game</h2>
+<h2 align="center">Pacman Game</h2>
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Anubhav88s/Anubhav88s/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Anubhav88s/Anubhav88s/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Anubhav88s/Anubhav88s/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Anubhav88s/Anubhav88s/output/pacman.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Anubhav88s/Anubhav88s/output/pacman.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Anubhav88s/Anubhav88s/output/pacman.svg">
   </picture>
 </p>
