@@ -60,3 +60,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anubhav88s&show_icons=true&locale=en&layout=compact" alt="anubhav88s" />
   <img src="https://github-readme-stats.vercel.app/api?username=anubhav88s&show_icons=true&locale=en" alt="anubhav88s" />
 </p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anubhav88s&theme=default&hide_border=true" alt="anubhav88s" />
+</p>
