@@ -2,6 +2,8 @@
   <img src="banner.png" width="100%" alt="Anubhav Raj Singh Banner" />
 </div>
 
+<br />
+
 <p align="center">
   <a href="https://www.linkedin.com/in/anubhav-raj-singh-88a03b2b5/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
