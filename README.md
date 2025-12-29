@@ -17,15 +17,10 @@
 </p>
 
 <h1 align="center">Hi there 👋, &lt; devs /&gt;</h1>
-<h3 align="center">Full Stack Developer</h3>
 
-- 🌱 I’m currently learning **Typescript**
-
-- 👨‍💻 All of my projects are available at [https://anubhav-eight.vercel.app/](https://anubhav-eight.vercel.app/)
-
-- 💬 Ask me about **Mern Stack Nextjs**
-
-- 📫 How to reach me **anubhavrajsinghu@gmail.com**
+<p align="center">
+  My name is <b>Anubhav Raj Singh</b>. A passionate Full Stack Web Developer from India. My main areas of interest are <b>MERN Stack</b> and <b>Next.js</b> development. Right now, I'm learning <b>Typescript</b> and <b>Advanced 3D Web Development</b>. Aside from this, I enjoy solving real-world problems using clean code. In my spare time, I love turning ideas into code.
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
