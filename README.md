@@ -27,19 +27,19 @@
 <h2 align="center">Tech Stack</h2>
 
 <div align="center">
-<table>
+<table width="100%">
   <tr>
     <td align="center" width="33%">
       <h3>Frontend</h3>
-      <img src="https://skillicons.dev/icons?i=nextjs,react,ts,redux,tailwind,html,css,sass,js,bootstrap&perline=2" />
+      <img src="https://skillicons.dev/icons?i=nextjs,react,ts,redux,tailwind,html,css,sass,js,bootstrap&perline=4" />
     </td>
     <td align="center" width="33%">
       <h3>Backend</h3>
-      <img src="https://skillicons.dev/icons?i=nodejs,express,java,mongodb,mysql,postgres,Socketio&perline=2" />
+      <img src="https://skillicons.dev/icons?i=nodejs,express,java,mongodb,mysql,postgres,Socketio&perline=4" />
     </td>
     <td align="center" width="33%">
       <h3>Tools & Others</h3>
-      <img src="https://skillicons.dev/icons?i=git,figma,postman,docker,firebase,ps&perline=2" />
+      <img src="https://skillicons.dev/icons?i=git,figma,postman,docker,firebase,ps&perline=4" />
     </td>
   </tr>
 </table>
