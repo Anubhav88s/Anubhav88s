@@ -47,6 +47,12 @@
 </div>
 
 
+<h2 align="center">Top Skills</h2>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,nextjs,tailwind,html,css,js,github,postman" />
+</p>
+
+
 <h2 align="center">Statistics</h2>
 
 
