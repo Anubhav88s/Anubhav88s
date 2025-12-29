@@ -40,7 +40,7 @@
     </td>
     <td align="center" valign="top" width="33%">
       <h3>Tools & Others</h3>
-      <img src="https://skillicons.dev/icons?i=git,figma,postman,docker,firebase,ps&perline=4" />
+      <img src="https://skillicons.dev/icons?i=github,figma,postman,docker,firebase,ps&perline=4" />
     </td>
   </tr>
 </table>
@@ -49,7 +49,7 @@
 
 <h2 align="center">Top Skills</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,nextjs,tailwind,html,css,js,github,postman" />
+  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,nextjs,tailwind,html,css,js,git,postman" />
 </p>
 
 
