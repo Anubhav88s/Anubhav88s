@@ -26,22 +26,24 @@
 
 <h2 align="center">Tech Stack</h2>
 
-
-
-<h3 align="center">Frontend</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,redux,tailwind,html,css,sass,js,bootstrap" />
-</p>
-
-<h3 align="center">Backend</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,java,mongodb,mysql,postgres,Socketio" />
-</p>
-
-<h3 align="center">Tools & Others</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,figma,postman,docker,firebase,ps" />
-</p>
+<div align="center">
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <h3>Frontend</h3>
+      <img src="https://skillicons.dev/icons?i=nextjs,react,ts,redux,tailwind,html,css,sass,js,bootstrap&perline=2" />
+    </td>
+    <td align="center" width="33%">
+      <h3>Backend</h3>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,java,mongodb,mysql,postgres,Socketio&perline=2" />
+    </td>
+    <td align="center" width="33%">
+      <h3>Tools & Others</h3>
+      <img src="https://skillicons.dev/icons?i=git,figma,postman,docker,firebase,ps&perline=2" />
+    </td>
+  </tr>
+</table>
+</div>
 
 
 <h2 align="center">Statistics</h2>
