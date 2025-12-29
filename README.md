@@ -2,6 +2,18 @@
   <img src="banner.png" width="100%" alt="Anubhav Raj Singh Banner" />
 </div>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/anubhav-raj-singh-88a03b2b5/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/Anubhav88s" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://anubhav-eight.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
+
 <h1 align="center">Hi 👋, I'm Anubhav Raj Singh</h1>
 <h3 align="center">Full Stack Developer</h3>
 
