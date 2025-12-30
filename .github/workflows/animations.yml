@@ -36,7 +36,7 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           user: ${{ github.repository_owner }}
           template: classic
-          base: ""
+          base: header, activity, community, repositories, metadata
           config_timezone: Asia/Kolkata
           plugin_streaks: yes
           filename: streak-stats.svg
