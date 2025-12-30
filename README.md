@@ -57,8 +57,7 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats-alpha.vercel.app/api/top-langs?username=Anubhav88s&show_icons=true&locale=en&layout=compact&v=1" alt="Anubhav88s" />
-  <img src="https://github-readme-stats-alpha.vercel.app/api?username=Anubhav88s&show_icons=true&locale=en&v=1" alt="Anubhav88s" />
+  <img src="https://raw.githubusercontent.com/Anubhav88s/Anubhav88s/output/github-metrics.svg" alt="Anubhav88s" />
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Anubhav88s&theme=default&hide_border=true&v=1" alt="Anubhav88s" />
