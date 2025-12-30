@@ -39,13 +39,14 @@ jobs:
           base: ""
           config_timezone: Asia/Kolkata
           plugin_streaks: yes
-          filename: dist/streak-stats.svg
+          filename: streak-stats.svg
 
       - name: Ensure all SVGs are in dist
         run: |
           mkdir -p dist
           mv pacman-contribution-graph.svg dist/ 2>/dev/null || true
           mv pacman-contribution-graph-dark.svg dist/ 2>/dev/null || true
+          mv streak-stats.svg dist/ 2>/dev/null || true
 
       - name: push outputs to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
