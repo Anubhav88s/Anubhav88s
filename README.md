@@ -61,8 +61,8 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.vercel.app/?user=Anubhav88s&theme=default&hide_border=true" alt="Anubhav88s Streak Stats" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Anubhav88s&theme=default" alt="Anubhav88s Top Languages" />
+  <img src="https://streak-stats.vercel.app/?user=Anubhav88s&theme=default&hide_border=true" alt="Anubhav88s Streak Stats" />
 </p>
 
 <p align="center">
